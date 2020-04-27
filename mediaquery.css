@@ -1,0 +1,251 @@
+@media screen and (max-width: 1024px){
+	#wrapper {
+		width: 76.17%;
+	}
+
+	#header li, a {
+		padding: 3px;
+		font-size: 15px;
+	}
+
+	#header form {
+		margin-top: -40px;
+	}
+
+	#daftar-artikel {
+		width: 100%;
+	}
+
+	.artikel img {
+		margin-right: 20px;
+	}
+
+@media screen and (max-width: 960px) {
+	#wrapper {
+		width: 81.25%;
+	}
+
+	#header li, a {
+		padding: 3px;
+		font-size: 13px;
+	}
+
+	#header form {
+		margin-top: -60px;											/*lebar sebenarnya width : 780px;*/
+	}
+
+	#daftar-artikel {
+		width: 100%;
+	}
+
+	.artikel img {
+		margin-right: 50px;
+	}
+}
+
+@media screen and (max-width: 880px){
+	#wrapper {
+		width: 88.63%;
+	}
+
+	#header li, a {
+		padding: 3px;
+		font-size: 13px;
+	}
+
+	#header form {
+		margin-top: -60px;
+	}
+
+	#daftar-artikel {
+		width: 100%;
+	}
+
+	.artikel img {
+		margin-right: 50px;
+	}
+}
+
+@media screen and (max-width: 768px){
+	#wrapper {
+		width: 101.56%;
+	}
+
+	#header li, a {
+		padding: 3px;
+		font-size: 11px;
+	}
+
+	#header form {
+		margin-top: -40px;
+	}
+
+	#daftar-artikel {
+		width: 100%;
+	}
+
+	.artikel img {
+		margin-right: 50px;
+	}
+}
+
+@media screen and (max-width: 736px){
+	#wrapper {
+		width: 105.97%;
+	}
+
+	#header li, a {
+		padding: 3px;
+		font-size: 11px;
+	}
+
+	#header form {
+		margin-top: -50px;
+	}
+
+	#daftar-artikel {
+		width: 100%;
+	}
+
+	.artikel img {
+		margin-right: 50px;
+	}
+}
+
+@media screen and (max-width: 667px){
+	#wrapper {
+		width: 116.94%;
+	}
+
+	#header li, a {
+		padding: 3px;
+		font-size: 11px;
+	}
+
+	#header form {
+		margin-top: -50px;
+	}
+
+	#daftar-artikel {
+		width: 100%;
+	}
+
+	.artikel img {
+		margin-right: 50px;
+	}
+}
+
+@media screen and (max-width: 600px){
+	#wrapper {
+		width: 130%;
+	}
+
+	#header li, a {
+		padding: 3px;
+		font-size: 11px;
+	}
+
+	#header form {
+		margin-top: -50px;
+	}
+
+	#daftar-artikel {
+		width: 100%;
+	}
+
+	.artikel img {
+		margin-right: 50px;
+	}
+}
+
+@media screen and (max-width: 568px){
+	#wrapper {
+		width: 137.32%;
+	}
+
+	#header li, a {
+		padding: 3px;
+		font-size: 11px;
+	}
+
+	#header form {
+		margin-top: -50px;
+	}
+
+	#daftar-artikel {
+		width: 100%;
+	}
+
+	.artikel img {
+		margin-right: 50px;
+	}
+}
+
+@media screen and (max-width: 460px) {
+	#wrapper {
+		width: 169.56%;
+	}
+
+	#header li, a {
+		padding: 3px;
+		font-size: 12px;
+	}
+
+	#header form {
+		margin-top: -60px;
+	}
+
+	#daftar-artikel {
+		width: 100%;
+	}
+
+	.artikel img {
+		margin-right: 50px;
+	}
+}
+
+@media screen and (max-width: 414px){
+	#wrapper {
+		width: 188.40%;
+	}
+
+	#header li, a {
+		padding: 3px;
+		font-size: 11px;
+	}
+
+	#header form {
+		margin-top: -50px;
+	}
+
+	#daftar-artikel {
+		width: 100%;
+	}
+
+	.artikel img {
+		margin-right: 50px;
+	}
+}
+
+@media screen and (max-width: 375px){
+	#wrapper {
+		width: 208%;
+	}
+
+	#header li, a {
+		padding: 3px;
+		font-size: 11px;
+	}
+
+	#header form {
+		margin-top: -50px;
+	}
+
+	#daftar-artikel {
+		width: 100%;
+	}
+
+	.artikel img {
+		margin-right: 50px;
+	}
+}
